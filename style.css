@@ -69,3 +69,7 @@ ul.history_list li div.txt{
 div.year{
   width: 5em;
 }
+a{
+  color: rgb(95, 134, 150);
+  font-size: 13px;
+}
